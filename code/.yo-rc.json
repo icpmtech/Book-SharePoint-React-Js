@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.12.1",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.18.0",
+    "libraryName": "sample-book-creating-first-project",
+    "libraryId": "665fef72-eb88-432c-ad46-d96273b4f22d",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "sample-book-creating-first-project",
+    "solutionShortDescription": "sample-book-creating-first-project description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

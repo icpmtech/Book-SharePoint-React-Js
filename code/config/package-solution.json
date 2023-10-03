@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "sample-book-creating-first-project-client-side-solution",
+    "id": "665fef72-eb88-432c-ad46-d96273b4f22d",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.18.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "sample-book-creating-first-project description"
+      },
+      "longDescription": {
+        "default": "sample-book-creating-first-project description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "sample-book-creating-first-project Feature",
+        "description": "The feature that activates elements of the sample-book-creating-first-project solution.",
+        "id": "8017b721-d863-4921-856f-e26d6bba1286",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/sample-book-creating-first-project.sppkg"
+  }
+}
